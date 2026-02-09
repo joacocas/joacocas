@@ -1,13 +1,11 @@
-# Hi there 👋, I'm Joaquín Castelanich
+# Hola 👋, soy Joaquín Castelanich
 
-### 🚀 Backend Developer | IT Support | Computer Science Student @ UNQ
+### Trainee Backend Developer | IT Support | Estudiante de informatica en UNQ
 
-Soy un apasionado del desarrollo **Backend** y la arquitectura de sistemas. Actualmente combino mi experiencia en soporte técnico con mi formación académica en la Universidad Nacional de Quilmes para construir soluciones eficientes y escalables.
+Buscando desarrollarme en **Backend** y la arquitectura de sistemas. Actualmente combino mi experiencia en soporte técnico con mi formación académica en la Universidad Nacional de Quilmes para construir soluciones eficientes y escalables.
 
 - 🛠️ Trabajando actualmente como: **Soporte Técnico**.
 - 🎓 Estudiante de: **Licenciatura en Informática (UNQ)**.
-- 🎯 Mi foco: Profundizar en arquitecturas de microservicios y streaming de datos.
-
 ---
 
 ### 💻 Stack Tecnológico
